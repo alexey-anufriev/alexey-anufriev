@@ -7,3 +7,5 @@ or install it from [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/
 
 🛠️ Take a look at [ice-bricks](https://github.com/alexey-anufriev/ice-bricks), the `apache-<whatever>`-like library of utilities for your inspiration (or daily usage).
 Available on [mvnrepository](https://mvnrepository.com/artifact/com.github.alexey-anufriev/ice-bricks) and [maven cetral](https://search.maven.org/artifact/com.github.alexey-anufriev/ice-bricks).
+
+☸️ Try out [Kubernetes bare metal cluster installer](https://github.com/alexey-anufriev/kubernetes-bare-metal-cluster-installer) for personal cloud-like pet projects.
