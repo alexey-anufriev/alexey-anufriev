@@ -1,17 +1,50 @@
-Hi, I'm a software engineer working mostly on distributed systems, backend services, and platform infrastructure.
+Hi, I am Alexey, a software engineer focused on backend platforms,
+distributed systems, security, and developer tooling. I build reliable
+services and practical tools that make complex systems easier to operate and
+work with.
 
-I started programming professionally in the mid-2000s while studying information technology, building e-commerce and content websites as a freelancer. That early work meant handling everything from application code to hosting, databases, and production troubleshooting, which strongly shaped how I approach systems today.
+### What I work on
 
-Over the years I've worked across several different environments:
+- Backend and platform services that need to be robust, operable, and secure.
+- Developer tooling, particularly where AI coding agents meet real workflows.
+- Programming-language theory and hands-on exploration with Erlang, Rust, Go,
+  Python, and Kotlin.
+- Side projects on hardware, browser extensions, and desktop tools.
 
-* large enterprise telecom systems with long development cycles and complex architectures
-* fintech platforms built under strong market and regulatory constraints
-* backend systems for online multiplayer games running under unpredictable load
-* large-scale cloud platforms with many teams, services, and shared infrastructure
+I started out as a freelance developer in the mid-2000s, building e-commerce
+and content sites while also looking after the hosting, databases, and
+production issues that came with them. Since then I have worked in telecom,
+fintech, gamedev, and large cloud platforms. The technologies and
+constraints changed, but the appeal has stayed the same: make complex systems
+trustworthy, understandable, and easy to work with for the people who depend on
+them.
 
-Today my work focuses on platform services, infrastructure, and security - building components that other teams depend on and keeping systems reliable, operable, and understandable as they grow.
+### Featured projects
 
-Outside of work I enjoy exploring programming languages, software architecture, and how systems behave under real conditions. I also tinker with hardware, write small utilities, and collect retro PCs and game consoles.
+#### Tools
 
-Check out one of my public projects: [Scopes Manager IDEA Plugin](https://github.com/alexey-anufriev/scopes-manager-intellij-plugin)
-or install it from [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/14987-scopes-manager).
+- [AI Chat Notifications](https://github.com/alexey-anufriev/ai-chat-notifications-intellij-plugin):
+  IntelliJ Platform plugin that lets you know when an in-IDE coding agent
+  needs your attention. It is also available on the
+  [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/32863-ai-chat-notifications).
+- [Scopes Manager](https://github.com/alexey-anufriev/scopes-manager-intellij-plugin):
+  IntelliJ plugin for managing project scopes, now with MCP tools that
+  help AI assistants understand a project’s structure. It is also available
+  on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/14987-scopes-manager).
+- [Codex Status](https://github.com/alexey-anufriev/codex-status): Compact KDE
+  Plasma widget for keeping an eye on Codex usage limits.
+- [ChatGPT Companion](https://github.com/alexey-anufriev/chatgpt-companion):
+  Chrome extension for discussing the current page with ChatGPT in a side panel.
+- [YouTube Extended Title](https://github.com/alexey-anufriev/youtube-extended-title):
+  Chrome extension that adds video metadata to YouTube tab titles.
+- [Mailspring Toolbox](https://github.com/alexey-anufriev/mailspring-toolbox):
+  Small utilities for the Mailspring email client to simplify mailing rutines.
+
+#### Drivers
+
+- [WeAct Display FS Driver](https://github.com/alexey-anufriev/weact-driver):
+  Rust drivers and a test CLI for WeAct USB displays.
+
+Outside of work, I enjoy software architecture and seeing how systems behave
+under real conditions. Away from the keyboard, I tinker with hardware, build
+small utilities. I also like and collect retro computers and gaming consoles.
